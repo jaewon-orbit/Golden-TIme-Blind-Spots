@@ -38,7 +38,7 @@ Working with spatial data at this scale made query efficiency matter. I learned 
 
 ## Report and Scope
 
-[Project report and analysis notes](https://internal-leaf-2e8.notion.site/Golden-Time-Blind-Spots-abfc0cfc07d8405597188082320528c1?pvs=4)
+[Project report and analysis notes](https://app.notion.com/p/Golden-Time-Blind-Spots-Project-Documentation-727d6956ab994465be9b6d7a29a52009?source=copy_link)
 
 These are findings from the internship analysis under its coverage assumptions, rather than measured response times for individual emergencies. This repository links to the project report and includes the internship certificate; it does not contain the SQL workflow or source datasets.
 
